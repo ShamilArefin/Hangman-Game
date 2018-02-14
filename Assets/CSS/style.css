@@ -1,0 +1,13 @@
+body{
+    background-color: palevioletred;
+}
+.header{
+    text-align: center;
+}
+.hotbod{
+    text-align: center;
+    border-style: dashed;
+    display: inline-block;
+    margin-left: 42%;
+    margin-right: 20%;
+}
