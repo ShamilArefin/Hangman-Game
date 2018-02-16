@@ -1,5 +1,8 @@
-body{
-    background-color: palevioletred;
+#gamebod{
+    border-style: solid;
+    display: inline-block;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .header{
     text-align: center;
@@ -8,6 +11,15 @@ body{
     text-align: center;
     border-style: dashed;
     display: inline-block;
-    margin-left: 42%;
-    margin-right: 20%;
+    background-color: palevioletred;
+}
+.imageclue{
+    border-style: dashed;
+    display: inline-block;
+    margin-top: 0px;   
+    
+}
+audio{
+    clear: both;
+    display: inline-block;
 }
